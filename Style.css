@@ -1,58 +1,58 @@
 .group{
-              text-align:center;
-              color: blue;
-              font-size: 20px;
-        }
-        h2{
-                text-align: center;
-                font-size: 40px;
-                color: black;
-        }
-        h1{
-                text-align: center;
-                font-style: italic;
-                font-size: 75px;
-                color: aquamarine;
-        }
-        p{
-                text-align: right;
-                font-size: 25px;
-                color: brown;
-        }
-        span > p{
-                text-align: center;
-                font-size: 50px;
-                font-style: initial;
-                color: burlywood;
-        }
-        article > section{
-                background-color:aliceblue;;
-                font-size: 30px;
-                font-weight: bold;
-        }
-        .list{
-                text-align: left;
-        }
-        article li{
-                text-decoration: none;
-        }
-        section ul{
-                list-style: none;
-        }
-        section a:link, a:visited{
-                display:inline-block;
-                background-size: 35px;
-                margin-bottom: 1px;
-                text-decoration: none;
-                border: 1px solid black;
-                text-align: center;
-                padding: 14px 25px;
-        }
-        section a:hover{
-                background-color: red;
-                color: green;
-        }
-        section a:active{
-                background-color: white;
-                color: bisque;
-        }
+        text-align:center;
+        color: blue;
+        font-size: 20px;
+}
+h2{
+        text-align: center;
+        font-size: 40px;
+        color: black;
+}
+h1{
+        text-align: center;
+        font-style: italic;
+        font-size: 75px;
+        color: aquamarine;
+}
+p{
+        text-align: right;
+        font-size: 25px;
+        color: brown;
+}
+span > p{
+        text-align: center;
+        font-size: 50px;
+        font-style: initial;
+        color: burlywood;
+}
+article > section{
+        background-color:aliceblue;;
+         font-size: 30px;
+        font-weight: bold;
+}
+.list{
+        text-align: left;
+}
+article li{
+        text-decoration: none;
+}
+section ul{
+        list-style: none;
+}
+section a:link, a:visited{
+        display:inline-block;
+        background-size: 35px;
+        margin-bottom: 1px;
+        text-decoration: none;
+        border: 1px solid black;
+        text-align: center;
+        padding: 14px 25px;
+}
+section a:hover{
+        background-color: red;
+        color: green;
+}
+section a:active{
+        background-color: white;
+       color: bisque;
+}
